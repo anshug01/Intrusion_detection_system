@@ -14,7 +14,7 @@ For authorized, add yours or your colleagues images with the same criteria as ab
 
 ---For example: authorized1.jpg, authorized2.jpg, so on...
 
-# Dependencies
+# Dependencies (Install all these version globally, else it is preferred to use Anaconda3)
 Python >= 3.6.7
 
 Tensorflow = 1.9.0
@@ -29,4 +29,6 @@ multiprocessing
 
 glob
 
+# Note
+Change paths used inside evaulate.py accordingly. 
 
